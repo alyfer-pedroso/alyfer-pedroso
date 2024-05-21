@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div><img src="https://github.com/alyfer-pedroso/alyfer-pedroso/blob/main/gif.gif" /></div>
+<div><img src="https://github.com/alyfer-pedroso/alyfer-pedroso/blob/main/img.gif" /></div>
