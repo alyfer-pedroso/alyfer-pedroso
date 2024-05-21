@@ -15,16 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>Labirinto</title>
-    <link rel="stylesheet" href="index.css" />
-  </head>
-  <body>
-    <canvas width="420px" height="350px"></canvas>
-    <script src="./logic/player.js"></script>
-    <script src="./logic/game.js"></script>
-  </body>
-</html>
+
+<canvas width="420px" height="350px"></canvas>
