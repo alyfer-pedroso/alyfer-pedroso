@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe
-  width="400"
-  height="215"
-  frameborder="0"
-  scrolling="no"
-  marginheight="0"
-  marginwidth="0"
-  src="https://alyfer-minecraft-react.netlify.app/">
-</iframe>
+<div
+  style="background-color: black; width: 100px; height: 100px">
+</div>
