@@ -173,6 +173,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyfer-pedroso&" alt="alyfer-pedroso" /></p>
 </div>
 
-
+![snake animation](https://github.com/alyfer-pedroso/alyfer-pedroso/blob/output/github-contribution-grid-snake2.svg)
 
 
