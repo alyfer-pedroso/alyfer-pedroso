@@ -173,5 +173,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyfer-pedroso&" alt="alyfer-pedroso" /></p>
 </div>
 
-![snake gif](https://github.com/alyfer-pedroso/alyfer-pedroso/blob/output/github-contribution-grid-snake.gif)
+<div><img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif" /></div>
 
