@@ -2,8 +2,8 @@
 <h3 align="center">I am a dedicated Computer Science student at CEUNSP, currently in my second semester. My passion for technology has led me to acquire a variety of skills in various technologies. I have a solid understanding of programming logic, which is the foundation of all my technical skills. I am always seeking to learn and adapt to new technologies to stay updated in the ever-evolving technological world.</h3>
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyfer-pedroso/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alyferl_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/alyfer-pedroso/)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/@alyferl_/)]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
