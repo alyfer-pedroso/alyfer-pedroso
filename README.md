@@ -4,8 +4,8 @@
 # 📱 Connect with me:
 
 [![](https://img.shields.io/badge/linkedin-0073B2?style=for-the-badge)](https://www.linkedin.com/in/alyfer-pedroso/)
-[![](https://img.shields.io/badge/gmail-C72926?style=for-the-badge)](mailto:heloisaribeirof@gmail.com)
-[![Instagram](https://img.shields.io/badge/instagram-FE2A65?style=for-the-badge)](https://instagram.com/@alyferl_/) 
+[![](https://img.shields.io/badge/gmail-C72926?style=for-the-badge)](mailto:alyferleandroaraujopedroso@gmail.com)
+[![](https://img.shields.io/badge/instagram-FE2A65?style=for-the-badge)](https://instagram.com/@alyferl_/) 
 
 # 💻 Languages and Tools:
 <p align="left">
