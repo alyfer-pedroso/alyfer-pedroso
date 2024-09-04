@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alyfer</h1>
 <h3 align="center">I am a dedicated Computer Science student at CEUNSP, currently in my second semester. My passion for technology has led me to acquire a variety of skills in various technologies. I have a solid understanding of programming logic, which is the foundation of all my technical skills. I am always seeking to learn and adapt to new technologies to stay updated in the ever-evolving technological world.</h3>
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyfer-pedroso/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyferleandroaraujopedroso@gmail.com)](mailto:heloisaribeirof@gmail.com)
