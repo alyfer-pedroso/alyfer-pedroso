@@ -170,8 +170,10 @@
   # 📊 $\color{white}{STATISTICS}$
 
   <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyfer-pedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyfer-pedroso&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyfer-pedroso&theme=tokyonight" />
+    <div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyfer-pedroso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyfer-pedroso&show_icons=true&layout=compact&langs_count=8&theme=tokyonight"/>
+    </div>
 </div>
 
