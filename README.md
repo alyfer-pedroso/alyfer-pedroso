@@ -1,7 +1,7 @@
 <h1 align="center">$\color{white}{Hi👋,}$ $\color{white}{I}$ $\color{white}{am}$ $\color{white}{Alyfer}$</h1>
 <h3 align="center">I am a dedicated Computer Science student at CEUNSP, currently in my second semester. My passion for technology has led me to acquire a variety of skills in various technologies. I have a solid understanding of programming logic, which is the foundation of all my technical skills. I am always seeking to learn and adapt to new technologies to stay updated in the ever-evolving technological world.</h3>
 
-# 📱 $\color{white}{CONNECT}$ $\color{white}{WITH}$ $\color{white}{ME}$
+# 🌐 $\color{white}{CONNECT}$ $\color{white}{WITH}$ $\color{white}{ME}$
 
 [![](https://img.shields.io/badge/linkedin-0073B2?style=for-the-badge)](https://www.linkedin.com/in/alyfer-pedroso/)
 [![](https://img.shields.io/badge/gmail-C72926?style=for-the-badge)](mailto:alyferleandroaraujopedroso@gmail.com)
