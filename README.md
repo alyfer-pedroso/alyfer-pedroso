@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alyfer</h1>
 <h3 align="center">I am a dedicated Computer Science student at CEUNSP, currently in my second semester. My passion for technology has led me to acquire a variety of skills in various technologies. I have a solid understanding of programming logic, which is the foundation of all my technical skills. I am always seeking to learn and adapt to new technologies to stay updated in the ever-evolving technological world.</h3>
 
-# Connect with me:
+# 📱 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyfer-pedroso/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyferleandroaraujopedroso@gmail.com)](mailto:heloisaribeirof@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alyferl_/) 
+[![](https://img.shields.io/badge/linkedin-0073B2?style=for-the-badge)](https://www.linkedin.com/in/alyfer-pedroso/)
+[![](https://img.shields.io/badge/gmail-C72926?style=for-the-badge)](mailto:heloisaribeirof@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-FE2A65?style=for-the-badge)](https://instagram.com/@alyferl_/) 
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Languages and Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/android-6.svg" alt="android" width="40" height="40" />
