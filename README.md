@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyfer-pedroso/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heloisaribeirof@gmail.com)](mailto:heloisaribeirof@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyferleandroaraujopedroso@gmail.com)](mailto:heloisaribeirof@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alyferl_/) 
 
 <h3 align="left">Languages and Tools:</h3>
