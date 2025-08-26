@@ -1,5 +1,6 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=fff&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Hi+👋;I'm+Alyfer;I'm+Full+Stack+Developer)]
+  
+  # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=fff&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Hi+👋;I'm+Alyfer;I'm+Full+Stack+Developer)](https://git.io/typing-svg)
 </div>
 
 <h3 align="center">I am a dedicated Computer Science student at CEUNSP, currently in my second semester. My passion for technology has led me to acquire a variety of skills in various technologies. I have a solid understanding of programming logic, which is the foundation of all my technical skills. I am always seeking to learn and adapt to new technologies to stay updated in the ever-evolving technological world.</h3>
