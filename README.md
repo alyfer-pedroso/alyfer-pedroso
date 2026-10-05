@@ -3,7 +3,7 @@
   # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=fff&size=27&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Hi+👋;I'm+Alyfer;I'm+Full+Stack+Developer)](https://git.io/typing-svg)
 </div>
 
-<h3 align="center">Hello! I’m Alyfer, a Mid-Level Fullstack Developer and a Computer Science student (currently in the 5th semester out of 8). My journey in technology started early and has been marked by rapid growth: I began as an intern and, due to my performance and ability to deliver results, I was directly promoted to Mid-Level Developer.
+<h3 align="center">Hello! I’m Alyfer, a Mid-Level Fullstack Developer and a Computer Science student (currently in the 6th semester out of 8). My journey in technology started early and has been marked by rapid growth: I began as an intern and, due to my performance and ability to deliver results, I was directly promoted to Mid-Level Developer.
 
 Throughout my professional experience, I have worked on the development of highly complex educational platforms involving integration between multiple systems, legacy systems, games, web and mobile applications, and various technologies working together. Currently, I develop robust web systems that integrate directly with mobile applications and other modern solutions.
 
